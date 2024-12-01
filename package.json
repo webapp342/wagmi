@@ -1,5 +1,7 @@
 {
   "name": "vite-project",
+  "homepage": "https://github.com/webapp342/wagmi",
+
   "private": true,
   "version": "0.0.0",
   "type": "module",
